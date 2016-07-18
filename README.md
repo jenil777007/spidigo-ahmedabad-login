@@ -47,6 +47,7 @@ class LoginTest(unittest.TestCase):
         self.driver.quit()
 
 if __name__ == '__main__':
+
     unittest.main()
     
 (COPY TILL ABOVE LINE)
