@@ -18,6 +18,7 @@ Voila, it works. ENJOY!
 THE SCRIPT:-(COPY THE CODE FROM BELOW LINE, change your username and password.)
 
 from selenium import webdriver
+
 from selenium.webdriver.support.ui import WebDriverWait
 
 import unittest
